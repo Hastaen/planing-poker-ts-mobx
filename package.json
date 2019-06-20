@@ -1,0 +1,41 @@
+{
+  "name": "tstut",
+  "version": "1.0.0",
+  "description": "testing react and ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "webpack --config webpack.dev.config.js",
+    "start": "webpack-dev-server --hot --config webpack.dev.config.js"
+  },
+  "author": "joostl",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^16.8.19",
+    "@types/react-dom": "^16.8.4",
+    "copy-webpack-plugin": "^5.0.3",
+    "mobx": "^5.10.0",
+    "mobx-react": "^6.0.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-spring": "^8.0.23",
+    "webpack-dev-server": "^3.5.1"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "css-loader": "^2.1.1",
+    "cssnano": "^4.1.10",
+    "html-webpack-plugin": "^3.2.0",
+    "postcss-custom-properties": "^8.0.10",
+    "postcss-import": "^12.0.1",
+    "postcss-initial": "^3.0.0",
+    "postcss-loader": "^3.0.0",
+    "postcss-preset-env": "^6.6.0",
+    "source-map-loader": "^0.2.4",
+    "style-loader": "^0.23.1",
+    "sugarss": "^2.0.0",
+    "typescript": "^3.4.5",
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2"
+  }
+}

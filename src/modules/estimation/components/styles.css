@@ -1,0 +1,12 @@
+:root {
+    --color: red;
+}
+
+.test {
+    background-color: var(--color)
+}
+
+.estimation-block {
+    width: 100%;
+    display: grid;
+}
