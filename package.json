@@ -25,7 +25,7 @@
     "awesome-typescript-loader": "^5.2.1",
     "css-loader": "^2.1.1",
     "cssnano": "^4.1.10",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "postcss-custom-properties": "^8.0.10",
     "postcss-import": "^12.0.1",
     "postcss-initial": "^3.0.0",
